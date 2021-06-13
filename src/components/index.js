@@ -1,3 +1,8 @@
+import Header from "./Header";
+import Cryptocontainer from "./Cryptocontainer";
+
+export { Header, Cryptocontainer };
+
 // import "react-native-gesture-handler";
 // import { registerRootComponent } from "expo";
 
